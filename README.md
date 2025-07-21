@@ -12,8 +12,6 @@ video-cutter [managers]
   Examples: `pacman`, `yay`, `paru`
   If no managers are specified, the script checks all supported managers.
 
-To customize where the script will look for the logs, set an environment variable named `BASH_HISTORY_PATH`
-
 ### Supported package managers
 
 * pacman
