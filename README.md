@@ -5,7 +5,7 @@
 ### Usage
 
 ```bash
-video-cutter [managers]
+check-installs [managers]
 ```
 
 * `managers` (optional) - A comma-separated list of package managers you want to check.
